@@ -1,6 +1,8 @@
 streamlit
 python-dotenv
 langchain
+langchain-core
+langchain-community
 langchain-groq
 faiss-cpu
 pymupdf
